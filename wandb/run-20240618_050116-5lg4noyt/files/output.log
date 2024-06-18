@@ -1,0 +1,7 @@
+
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+Configuración de la ejecución: {'batch_size': 64, 'learning_rate': 0.01, 'run_index': 1}
+Archivos en el directorio actual: ['wandb', 'practico_4.ipynb', 'model_run_0.h5', 'transform_pattern_conv.h5', '.git', 'README.md', 'model_run_1.h5']
+Cargando el modelo desde model_run_1.h5
+Evaluando el modelo model_run_1.h5
+Modelo model_run_1.h5 - Pérdida de validación: 2.6014018058776855, Precisión de validación: 0.0
